@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
