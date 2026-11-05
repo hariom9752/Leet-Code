@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/hariom9752/Leet-Code/tree/master/3863-minimum-operations-to-sort-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
