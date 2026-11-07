@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hariom9752/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/hariom9752/Leet-Code/tree/master/2747-count-zero-request-servers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hariom9752/Leet-Code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/hariom9752/Leet-Code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
