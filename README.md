@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hariom9752/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariom9752/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/hariom9752/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/hariom9752/Leet-Code/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
