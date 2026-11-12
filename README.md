@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/hariom9752/Leet-Code/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/hariom9752/Leet-Code/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
