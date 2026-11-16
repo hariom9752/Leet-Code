@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/hariom9752/Leet-Code/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hariom9752/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/hariom9752/Leet-Code/tree/master/2747-count-zero-request-servers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hariom9752/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hariom9752/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariom9752/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2747-count-zero-request-servers](https://github.com/hariom9752/Leet-Code/tree/master/2747-count-zero-request-servers) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hariom9752/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hariom9752/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hariom9752/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariom9752/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hariom9752/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
