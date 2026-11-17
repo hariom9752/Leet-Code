@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/hariom9752/Leet-Code/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/hariom9752/Leet-Code/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariom9752/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hariom9752/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/hariom9752/Leet-Code/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariom9752/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/hariom9752/Leet-Code/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
