@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/hariom9752/Leet-Code/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/hariom9752/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariom9752/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
 | [1189-maximum-number-of-balloons](https://github.com/hariom9752/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [2747-count-zero-request-servers](https://github.com/hariom9752/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hariom9752/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariom9752/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/hariom9752/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/hariom9752/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/hariom9752/Leet-Code/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hariom9752/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2747-count-zero-request-servers](https://github.com/hariom9752/Leet-Code/tree/master/2747-count-zero-request-servers) |
