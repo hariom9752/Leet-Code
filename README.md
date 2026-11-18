@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/hariom9752/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/hariom9752/Leet-Code/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/hariom9752/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1859-sorting-the-sentence](https://github.com/hariom9752/Leet-Code/tree/master/1859-sorting-the-sentence) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/hariom9752/Leet-Code/tree/master/0071-simplify-path) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hariom9752/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Segment Tree
 |  |
