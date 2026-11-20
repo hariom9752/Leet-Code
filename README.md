@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/hariom9752/Leet-Code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hariom9752/Leet-Code/tree/master/0062-unique-paths) |
+| [0087-scramble-string](https://github.com/hariom9752/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariom9752/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/hariom9752/Leet-Code/tree/master/0071-simplify-path) |
+| [0087-scramble-string](https://github.com/hariom9752/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/hariom9752/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1859-sorting-the-sentence](https://github.com/hariom9752/Leet-Code/tree/master/1859-sorting-the-sentence) |
