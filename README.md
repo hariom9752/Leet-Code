@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/hariom9752/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/hariom9752/Leet-Code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hariom9752/Leet-Code/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hariom9752/Leet-Code/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/hariom9752/Leet-Code/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/hariom9752/Leet-Code/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/hariom9752/Leet-Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/hariom9752/Leet-Code/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hariom9752/Leet-Code/tree/master/0074-search-a-2d-matrix) |
@@ -243,5 +245,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hariom9752/Leet-Code/tree/master/0055-jump-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hariom9752/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
