@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hariom9752/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/hariom9752/Leet-Code/tree/master/3693-climbing-stairs-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/hariom9752/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hariom9752/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/hariom9752/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/hariom9752/Leet-Code/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/hariom9752/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/hariom9752/Leet-Code/tree/master/0055-jump-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/hariom9752/Leet-Code/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/hariom9752/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
