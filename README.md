@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/hariom9752/Leet-Code/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/hariom9752/Leet-Code/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/hariom9752/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0087-scramble-string](https://github.com/hariom9752/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hariom9752/Leet-Code/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/hariom9752/Leet-Code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/hariom9752/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/hariom9752/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hariom9752/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariom9752/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/hariom9752/Leet-Code/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/hariom9752/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/hariom9752/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 ## Counting
