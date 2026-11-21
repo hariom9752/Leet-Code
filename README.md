@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hariom9752/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hariom9752/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Tree
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/hariom9752/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariom9752/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hariom9752/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariom9752/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hariom9752/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
