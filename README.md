@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/hariom9752/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hariom9752/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/hariom9752/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hariom9752/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hariom9752/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hariom9752/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/hariom9752/Leet-Code/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/hariom9752/Leet-Code/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/hariom9752/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
 | [1189-maximum-number-of-balloons](https://github.com/hariom9752/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/hariom9752/Leet-Code/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/hariom9752/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/hariom9752/Leet-Code/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/hariom9752/Leet-Code/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
