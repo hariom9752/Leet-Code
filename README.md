@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/hariom9752/Leet-Code/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/hariom9752/Leet-Code/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/hariom9752/Leet-Code/tree/master/0093-restore-ip-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/hariom9752/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1859-sorting-the-sentence](https://github.com/hariom9752/Leet-Code/tree/master/1859-sorting-the-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/hariom9752/Leet-Code/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hariom9752/Leet-Code/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/hariom9752/Leet-Code/tree/master/0093-restore-ip-addresses) |
 ## Bit Manipulation
 |  |
 | ------- |
