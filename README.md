@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3693-climbing-stairs-ii](https://github.com/hariom9752/Leet-Code/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hariom9752/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3904-smallest-stable-index-ii](https://github.com/hariom9752/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/hariom9752/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariom9752/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
+| [3904-smallest-stable-index-ii](https://github.com/hariom9752/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
