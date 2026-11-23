@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/hariom9752/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/hariom9752/Leet-Code/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3871-count-commas-in-range-ii](https://github.com/hariom9752/Leet-Code/tree/master/3871-count-commas-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
