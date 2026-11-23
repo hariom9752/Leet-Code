@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hariom9752/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hariom9752/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hariom9752/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/hariom9752/Leet-Code/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hariom9752/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/hariom9752/Leet-Code/tree/master/0101-symmetric-tree) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hariom9752/Leet-Code/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hariom9752/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 ## String
 |  |
