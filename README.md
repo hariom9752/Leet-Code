@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/hariom9752/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/hariom9752/Leet-Code/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hariom9752/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3693-climbing-stairs-ii](https://github.com/hariom9752/Leet-Code/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hariom9752/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/hariom9752/Leet-Code/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hariom9752/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hariom9752/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hariom9752/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/hariom9752/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/hariom9752/Leet-Code/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/hariom9752/Leet-Code/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/hariom9752/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/hariom9752/Leet-Code/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/hariom9752/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
