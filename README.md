@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hariom9752/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/hariom9752/Leet-Code/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0835-image-overlap](https://github.com/hariom9752/Leet-Code/tree/master/0835-image-overlap) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/hariom9752/Leet-Code/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/hariom9752/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/hariom9752/Leet-Code/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/hariom9752/Leet-Code/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/hariom9752/Leet-Code/tree/master/0835-image-overlap) |
 | [1267-count-servers-that-communicate](https://github.com/hariom9752/Leet-Code/tree/master/1267-count-servers-that-communicate) |
 ## Counting
 |  |
