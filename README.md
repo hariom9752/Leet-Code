@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/hariom9752/Leet-Code/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariom9752/Leet-Code/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hariom9752/Leet-Code/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3934-smallest-unique-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/hariom9752/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/hariom9752/Leet-Code/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3904-smallest-stable-index-ii](https://github.com/hariom9752/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hariom9752/Leet-Code/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/hariom9752/Leet-Code/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/hariom9752/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3934-smallest-unique-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -330,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/hariom9752/Leet-Code/tree/master/3411-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/hariom9752/Leet-Code/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
